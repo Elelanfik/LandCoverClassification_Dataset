@@ -31,9 +31,16 @@ Each selected image was carefully chosen to accommodate different zoom levels, e
 
 ## Data Structure
 
-The dataset is organized as follows:
+EthiopiaLandCoverClassification/
+├── images/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+└── masks/
+    ├── mask1.png
+    ├── mask2.png
+    └── ...
 
-EthiopiaLandCoverClassification/ ├── images/ │ ├── image1.jpg│ ├── image2.jpg│ └── ... └── masks/ ├── mask1.png├── mask2.png└── ...
 ## Usage
 Downloading the Dataset
 To download the dataset, clone the repository:
