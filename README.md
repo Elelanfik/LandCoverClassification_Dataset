@@ -40,6 +40,7 @@ EthiopiaLandCoverClassification/
     ├── mask1.png
     ├── mask2.png
     └── ...
+    
 
 ## Usage
 Downloading the Dataset
