@@ -18,7 +18,6 @@ This repository contains a comprehensive dataset for Land Use and Land Cover (LU
 - **Image Format:** JPEG
 - **Mask Format:** PNG
 - **Resolution:** 1 meter, 10 meters, 30 meters
-- **Number of Samples:** [Total Number of Samples]
 
 ## Data Sources
 
