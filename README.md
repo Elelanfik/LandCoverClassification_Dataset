@@ -47,3 +47,12 @@ To download the dataset, clone the repository:
 https://github.com/Elelanfik/LandCoverClassification_Dataset
 ## Citation
 If you use this dataset in your research, please cite the following paper:
+@article{deressu2025enhancing,
+  title={Enhancing land use and land cover classification with deep learning-based satellite imagery segmentation},
+  author={Deressu, Tsion Fekadu and Bojer, Amanuel Kumsa and Debelee, Taye Girma and Negera, Worku Gachena and Nadarajah, Saralees and Gebissa, Kena Wendimu},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={144},
+  pages={104839},
+  year={2025},
+  publisher={Elsevier}
+}
